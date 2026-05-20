@@ -1,333 +1,335 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════════
-     PREMIUM HEADER BANNER
-══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    CINEMATIC HEADER                          ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0d1117,100:0a0a0f&height=280&section=header&text=Dhruv%20Garg&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Backend%20Developer&descColor=58a6ff&descAlignY=60&descSize=17&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════
-     TYPING BANNER
-══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a1a,60:0d1f3c,100:000000&height=260&section=header&text=DHRUV%20GARG&fontSize=78&fontColor=ffffff&fontAlignY=45&desc=◈%20Software%20Engineer%20%20%7C%20%20AI%20Engineer%20%20%7C%20%20Backend%20Developer%20◈&descColor=58a6ff&descAlignY=65&descSize=16&animation=blinking&stroke=1f6feb&strokeWidth=2&reversal=false" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=⚡+Building+scalable+backend+systems;🤖+Engineering+production-grade+AI+products;🧠+LLMs+%7C+RAG+%7C+Agentic+Workflows;🔧+Node.js+%7C+Python+%7C+MongoDB+%7C+System+Design;🚀+3%2B+Years+%E2%80%94+Backend+%26+AI+Engineering)](https://git.io/typing-svg)
+<!-- GLOWING TYPING LINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=⚡+Architecting+high-performance+backend+systems;🤖+Shipping+production+AI+%26+LLM-powered+products;🔬+RAG+Pipelines+%7C+Agentic+AI+%7C+Vector+Search;🧱+System+Design+%7C+Clean+Architecture+%7C+DSA;🚀+3%2B+Years+—+Backend+%26+Generative+AI+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     SOCIAL BADGES — PREMIUM ROW
-══════════════════════════════════════════════════════════════════ -->
-
-<a href="https://www.linkedin.com/in/dhruv-garg-442392395" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<!-- STATUS PILLS -->
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-2ea44f?style=flat-square&labelColor=0d1117&color=2ea44f&logo=checkmarx&logoColor=2ea44f" />
 &nbsp;
-<a href="https://github.com/Dhruvy0804" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Dhruvy0804&color=58a6ff&style=flat-square&label=👁️+Profile+Views" />
 &nbsp;
-<a href="https://leetcode.com/u/dhruvgarg_47/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<img src="https://img.shields.io/github/followers/Dhruvy0804?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dhruvy0804&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Dhruvy0804?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers" alt="Followers"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat-square&labelColor=0d1117" alt="Open to Work"/>
+<!-- SOCIAL BADGES — PREMIUM PILL STYLE -->
+<a href="https://www.linkedin.com/in/dhruv-garg-442392395">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+&nbsp;
+<a href="https://github.com/Dhruvy0804">
+  <img src="https://img.shields.io/badge/GitHub-Dhruvy0804-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/dhruvgarg_47/">
+  <img src="https://img.shields.io/badge/LeetCode-dhruvgarg__47-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+</a>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     NEON DIVIDER
-══════════════════════════════════════════════════════════════════ -->
-
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░ ANIMATED DIVIDER ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     ABOUT ME
-══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                     WHOAMI SECTION                           ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260" alt="Dev GIF"/>
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250"/>
 
-### ◈ &nbsp;`whoami`
-
-```typescript
-const dhruv = {
-  title      : "Software Engineer & AI Engineer",
-  experience : "3+ Years",
-  focus      : ["Backend Engineering", "Generative AI", "Product Engineering"],
-  stack      : ["Node.js", "Python", "React", "MongoDB", "LLMs"],
-  currently  : "Building scalable AI-powered backend systems",
-  interests  : ["System Design", "DSA", "RAG Pipelines", "MLOps"],
-  philosophy : "Ship fast · Scale smart · Automate everything",
-} as const;
+```
+┌─────────────────────────────────────────────────────────────┐
+│  > whoami                                                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Name       →  Dhruv Garg                                  │
+│  Role       →  Software Engineer · AI Engineer             │
+│               Backend Developer                             │
+│  Stack      →  Node.js · Python · React · MongoDB · LLMs   │
+│  Focus      →  Backend Systems · GenAI · Product Eng        │
+│  XP         →  3+ Years shipping production systems        │
+│  Building   →  Scalable AI-powered backend infrastructure   │
+│  Mindset    →  Ship fast · Scale smart · Automate all       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-- 🔭 &nbsp;Building **production-grade AI + backend systems** end-to-end
-- 🧠 &nbsp;Deep expertise in **LLMs, RAG, Agentic Workflows & GenAI**
-- ⚡ &nbsp;Obsessed with **System Design**, clean architecture & DSA
-- 🛠️ &nbsp;Crafting **high-performance backends** with Node.js & Python
-- 🎯 &nbsp;Focused on **scalable APIs**, microservices & cloud deployments
+🔭 &nbsp;Building **intelligent backend systems** that scale to millions  
+🤖 &nbsp;Deep in **LLMs, RAG pipelines, Agentic AI** & GenAI products  
+⚡ &nbsp;Obsessed with **System Design**, clean code & real-world DSA  
+🧱 &nbsp;Crafting **high-performance APIs** with Node.js & FastAPI  
+🎯 &nbsp;Bridging the gap between **software engineering & AI**  
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     TECH STACK
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;Tech Stack
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                      TECH ARSENAL                            ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=express" width="40"/><br/><sub><b>Express</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/><sub><b>FastAPI</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=redis" width="40"/><br/><sub><b>Redis</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><sub><b>AWS</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub><b>Git</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><sub><b>Tailwind</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postman" width="40"/><br/><sub><b>Postman</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><sub><b>C++</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=graphql" width="40"/><br/><sub><b>GraphQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br/><sub><b>TensorFlow</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════
-     AI ENGINEER SECTION — PREMIUM
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;AI / GenAI Engineering
-
-<div align="center">
+### ⚡ Tech Arsenal
 
 <br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<!-- ROW 1: LANGUAGES -->
+**`— Languages —`**
 
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                       🤖  AI ENGINEERING STACK                          ║
-╠═════════════════════════╦════════════════════════╦═══════════════════════╣
-║   Large Language Models ║   Vector & Retrieval   ║   ML & Data Science   ║
-║  ─────────────────────  ║  ──────────────────    ║  ──────────────────   ║
-║  GPT-4o / Claude API    ║  FAISS / Pinecone      ║  scikit-learn         ║
-║  LangChain / LlamaIndex ║  RAG Pipelines         ║  Pandas / NumPy       ║
-║  Prompt Engineering     ║  Embedding Models      ║  Data Preprocessing   ║
-║  Agentic Workflows      ║  Semantic Search       ║  Model Fine-tuning    ║
-║  LLM Fine-tuning        ║  ChromaDB              ║  Feature Engineering  ║
-╚═════════════════════════╩════════════════════════╩═══════════════════════╝
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════
-     GITHUB STATS
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;GitHub Analytics
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruvy0804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&show=reviews,discussions_started" height="185" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvy0804&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&hide=html,css" height="185" alt="Top Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark&perline=4" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvy0804&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e&stroke=0d1117" width="520" alt="GitHub Streak"/>
+<!-- ROW 2: BACKEND -->
+**`— Backend & APIs —`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark&perline=4" />
+
+<br/><br/>
+
+<!-- ROW 3: FRONTEND -->
+**`— Frontend —`**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html&theme=dark&perline=4" />
+
+<br/><br/>
+
+<!-- ROW 4: DATABASES & INFRA -->
+**`— Databases & Infrastructure —`**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker,linux&theme=dark&perline=6" />
+
+<br/><br/>
+
+<!-- ROW 5: AI/ML -->
+**`— AI / ML / GenAI —`**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2" />
+&nbsp;&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=1C3C3C)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+<br/><br/>
+
+<!-- ROW 6: TOOLS -->
+**`— Tools & Workflow —`**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     CONTRIBUTION GRAPH
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;Contribution Graph
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                   AI ENGINEERING MATRIX                      ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
+
+### 🤖 AI / GenAI Engineering Matrix
+
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvy0804&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0d2a4a&hide_border=true&custom_title=Dhruv%27s%20Contribution%20Activity&radius=8" width="96%" alt="Contribution Graph"/>
+
+```
+                    ╔═══════════════════════════════════════════════════════════════╗
+                    ║            ██████╗ ███████╗███╗   ██╗ █████╗ ██╗            ║
+                    ║           ██╔════╝ ██╔════╝████╗  ██║██╔══██╗██║            ║
+                    ║           ██║  ███╗█████╗  ██╔██╗ ██║███████║██║            ║
+                    ║           ██║   ██║██╔══╝  ██║╚██╗██║██╔══██║██║            ║
+                    ║           ╚██████╔╝███████╗██║ ╚████║██║  ██║██║            ║
+                    ║            ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝            ║
+                    ╚═══════════════════════════════════════════════════════════════╝
+
+  ┌──────────────────────┬──────────────────────┬──────────────────────┐
+  │  🧠 LLM Engineering  │  🔍 RAG & Retrieval  │  📊 ML & DS          │
+  ├──────────────────────┼──────────────────────┼──────────────────────┤
+  │  GPT-4o / Claude     │  FAISS / Pinecone    │  scikit-learn        │
+  │  LangChain           │  ChromaDB            │  Pandas / NumPy      │
+  │  LlamaIndex          │  Embedding Models    │  Model Fine-tuning   │
+  │  Prompt Engineering  │  Semantic Search     │  Feature Engineering │
+  │  Agentic Workflows   │  Vector Databases    │  Data Pipelines      │
+  │  LLM Fine-tuning     │  Hybrid Search       │  EDA & Visualization │
+  └──────────────────────┴──────────────────────┴──────────────────────┘
+```
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     TROPHIES
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;GitHub Trophies
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    GITHUB ANALYTICS                          ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
+
+### 📊 GitHub Analytics
+
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruvy0804&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="Trophies"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruvy0804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&border_radius=12" height="190"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvy0804&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&border_radius=12" height="190"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvy0804&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e&stroke=0d1117&border_radius=12" width="530"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     LEETCODE
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;LeetCode — Problem Solving
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                   CONTRIBUTION GRAPH                         ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
+
+### 🌐 Contribution Activity
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvy0804&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0d2a4a&hide_border=true&custom_title=Dhruv%27s%20Contribution%20Graph&radius=8&height=280" width="97%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    GITHUB TROPHIES                           ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhruvy0804&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                     LEETCODE STATS                           ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### 🧩 LeetCode — Problem Solving
+
 <br/>
 
 <a href="https://leetcode.com/u/dhruvgarg_47/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/dhruvgarg_47?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&width=500&sheets=https://unpkg.com/@jjloomis/leetcode-card-dark-theme@1.0.0/src/style.css" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/dhruvgarg_47?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&width=500" alt="LeetCode Stats" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Profile-dhruvgarg__47-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/⚡_Profile-dhruvgarg__47-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Strength-DSA%20%26%20Problem%20Solving-58a6ff?style=for-the-badge" alt="Strength"/>
+<img src="https://img.shields.io/badge/🧠_Focus-DSA%20%26%20Problem%20Solving-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💡_Skill-Algorithms%20%26%20Data%20Structures-1f6feb?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     WHAT I BUILD
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;What I Engineer
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    WHAT I ENGINEER                           ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
+
+### 🛠️ What I Engineer
+
 <br/>
 
-| 🤖 &nbsp;AI-Powered Systems | ⚙️ &nbsp;Backend Engineering | 📐 &nbsp;System Design |
+| 🤖 &nbsp;AI-Powered Systems | ⚙️ &nbsp;Backend Engineering | 📐 &nbsp;Architecture & Design |
 |:---|:---|:---|
-| LLM-integrated REST APIs | High-throughput Node.js services | Distributed system architecture |
-| RAG & vector search pipelines | Authentication & authorization | Database schema design |
-| Agentic workflow automation | API rate limiting & caching | Microservices & event-driven |
+| LLM-integrated REST APIs | High-throughput Node.js services | Distributed system design |
+| RAG & vector search pipelines | Auth systems (JWT / OAuth2) | Microservices & event-driven |
+| Agentic workflow automation | API rate limiting & caching | Database schema optimization |
 | Prompt engineering at scale | Real-time WebSocket systems | Scalable cloud deployments |
 | GenAI product development | MongoDB / PostgreSQL modeling | Load balancing & performance |
+| LLM fine-tuning pipelines | Background job queues | CI/CD & DevOps automation |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     CONNECT
-══════════════════════════════════════════════════════════════════ -->
-
-### ◈ &nbsp;Let's Connect
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                   SNAKE CONTRIBUTION                         ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<br/>
 
-<a href="https://www.linkedin.com/in/dhruv-garg-442392395" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:dhruvgarg0804@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/dhruvgarg_47/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<br/><br/>
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </picture>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                      CONNECT                                 ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### 🤝 Let's Build Something Great
+
 <br/>
 
-> ### *"Build systems that scale. Write code that lasts.*
-> ### *Engineer intelligence that matters."*
+<a href="https://www.linkedin.com/in/dhruv-garg-442392395">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:dhruvgarg553@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/dhruvgarg_47/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
+</a>
+
+<br/><br/><br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    "Build systems that scale. Write code that lasts.                 ║
+║     Engineer intelligence that matters."                            ║
+║                                                                      ║
+║                                                 — Dhruv Garg        ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1f3c,100:0d1117&height=120&section=footer&fontColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1f3c,80:0a0a1a,100:000000&height=130&section=footer&fontColor=58a6ff&reversal=false" width="100%"/>
 
 </div>
