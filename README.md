@@ -102,9 +102,6 @@ const dhruv = {
 <img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub><b>React</b></sub>
 </td>
 <td align="center" width="110">
@@ -179,7 +176,6 @@ const dhruv = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
